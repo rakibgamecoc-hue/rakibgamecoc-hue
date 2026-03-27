@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**rakibgamecoc-hue/rakibgamecoc-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on ...front end web development.
+- 🌱 I’m currently learning ...HTML CSS JAVASCRIPT.
+- 👯 I’m looking to collaborate on ...Making responsive websites and web  app that helps people solving their problems.
 
-Here are some ideas to get you started:
+>Semantic HTML & Accessibility (A11y)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>Advanced CSS (Flexbox, Grid, Custom Properties)
+
+>Responsive Design & Container Queries
+
+>JavaScript (ES6+, Async/Await, DOM)
+
+>TypeScript
+
+>React
+
+>Next.js
+
+>Basic UI/UX Design Principles
